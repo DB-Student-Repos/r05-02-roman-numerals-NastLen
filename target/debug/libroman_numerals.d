@@ -1,0 +1,1 @@
+/Users/stacy/Desktop/THD/Semester02/RustExcercises/r05-02-roman-numerals-NastLen/target/debug/libroman_numerals.rlib: /Users/stacy/Desktop/THD/Semester02/RustExcercises/r05-02-roman-numerals-NastLen/src/lib.rs
